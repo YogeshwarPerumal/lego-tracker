@@ -52,7 +52,7 @@ class PriceTracker:
     def check_prices(self):
         products = self.load_products()
         price_drops = []
-        
+        print("products - ", products)
         for product in products:
             current_price = self.get_price(product['url'])
             if current_price:
