@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  price-tracker:
+    build: .
+    container_name: flipkart-price-tracker
+    volumes:
+      - ./products.json:/app/products.json
+      - ./price_tracker.log:/app/price_tracker.log
+      - ./config.json:/app/config.json
+    restart: unless-stopped

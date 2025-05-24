@@ -1,0 +1,9 @@
+{
+  "check_interval_hours": 6,
+  "notification": {
+    "telegram": {
+      "bot_token": "7812477659:AAEsZwiznqMVoZ1IRC7RiYCZsbl7bEcL644",
+      "chat_id": "7636847560"
+    }
+  }
+}
