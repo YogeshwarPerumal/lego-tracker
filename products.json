@@ -14,5 +14,29 @@
     "threshold_price": 40000,
     "current_price": 50000,
     "last_checked": "2025-05-24T19:29:18.018408"
+  },
+  {
+    "id": "3",
+    "name": "LEGO Technic McLaren 720S",
+    "url": "https://www.flipkart.com/lego-technic-mclaren-720s-42114-model-car-building-kit-3-696-pieces/p/itm5212cc753a71c?pid=BLCG7PMMKSRZ4PDR&lid=LSTBLCG7PMMKSRZ4PDR8QRTGD",
+    "threshold_price": 40000,
+    "current_price": 50000,
+    "last_checked": "2025-05-24T19:29:18.018408"
+  },
+  {
+    "id": "4",
+    "name": "LEGO Technic Porsche 911 GT3 RS",
+    "url": "https://www.flipkart.com/lego-technic-porsche-911-gt3-rs-42116-model-car-building-kit-3-696-pieces/p/itm5212cc753a71c?pid=BLCG7PMMKSRZ4PDR&lid=LSTBLCG7PMMKSRZ4PDR8QRTGD",
+    "threshold_price": 40000,
+    "current_price": 50000,
+    "last_checked": "2025-05-24T19:29:18.018408"
+  },
+  {
+    "id": "5",
+    "name": "LEGO Technic Ferrari SF90 Spider",
+    "url": "https://www.flipkart.com/lego-technic-ferrari-sf90-spider-42113-model-car-building-kit-3-696-pieces/p/itm5212cc753a71c?pid=BLCG7PMMKSRZ4PDR&lid=LSTBLCG7PMMKSRZ4PDR8QRTGD",
+    "threshold_price": 40000,
+    "current_price": 50000,
+    "last_checked": "2025-05-24T19:29:18.018408"
   }
 ]
