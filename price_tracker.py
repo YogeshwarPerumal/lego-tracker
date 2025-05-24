@@ -35,7 +35,7 @@ class PriceTracker:
             soup = BeautifulSoup(response.content, 'html.parser')
             
             scripts = soup.find_all("script")
-
+            print("scripts - ", scripts)
             for script in scripts:
                 if script.string and "price" in script.string:
                     # Try to find JSON-like data
